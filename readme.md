@@ -8,3 +8,13 @@ Más información y cursos en [Golem Lab](https://golemlab.ai)
 > GenAI_Agents es uno de los repositorios más completos para aprender, desarrollar e implementar agentes de inteligencia artificial generativa. Ofrece tutoriales paso a paso y ejemplos prácticos que van desde agentes conversacionales básicos hasta sistemas multi-agente avanzados. Utiliza frameworks como LangChain, LangGraph y AutoGen, e incluye agentes para tareas educativas, análisis de datos, atención al cliente, generación de contenido, investigación académica, compras online, gestión de proyectos y más. El repositorio está pensado tanto para principiantes como para desarrolladores avanzados, con documentación detallada, flujos de trabajo modulares y actualizaciones regulares.
 
 Link: https://github.com/NirDiamant/GenAI_Agents
+
+### Smithery AI
+> Smithery AI ayuda a desarrolladores encontrar y desarrollar MCPs (Model Context Protocol) para cualquier modelo de lenguaje.
+
+Link:https://github.com/smithery-ai
+
+### There's an AI for that
+> Colección constantemente actualizada con herramientas IA para cualquier cosa que puedas imaginar.
+
+Link: https://theresanaiforthat.com
