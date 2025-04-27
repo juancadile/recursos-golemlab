@@ -1,5 +1,6 @@
 # Recursos 
-> En este repositorio encontrarás una recopilación de recursos útiles para aprender y desarrollar agentes de inteligencia artificial generativa.
+En este repositorio encontrarás una recopilación de recursos útiles para aprender y desarrollar agentes de inteligencia artificial generativa.
+
 Más información y cursos en [Golem Lab](https://golemlab.ai)
 ## Repositorios
 
